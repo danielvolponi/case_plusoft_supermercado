@@ -1,4 +1,4 @@
-Case Plusoft Supermercados
+Estudo Clusterização de Municípios para Entrada de Supermercados
 ==============================
 
 ## Cenário
