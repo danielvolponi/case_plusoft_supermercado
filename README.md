@@ -6,7 +6,7 @@ Uma grande multinacional varejista do ramo de supermercados deseja ingressar no 
 
 Este trabalho foi elaborado como parte do processo seletivo para Data Analyst da Plusoft.
 
-*O relatório em formato de apresentação pode ser visto em: <a target="_blank" href="https://docs.google.com/presentation/d/1Q5pxOEcnfcEVwr7Mubu5WsN-dPrkDzU6o4qPu6xu6C8/edit?usp=sharing/"> Link</a>.*
+*O relatório em formato de apresentação pode ser visto em: <a target="_blank" href="https://github.com/danielvolponi/case_plusoft_supermercado/blob/main/reports/Case%20Plusoft%20-%20Daniel%20Volponi.pdf"> Link</a>.*
 
 ## Objetivos
 
