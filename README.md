@@ -29,6 +29,7 @@ Organização do Projeto
     ├── models             <- Modelo para predições únicas
     │
     ├── notebooks          <- Jupyter notebooks. Númerados de 01 a 03 de acordo com o objetivo.
+    ├── reports            <- relatórios e imagens para apresentação.
 
 --------
 
